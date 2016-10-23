@@ -6,3 +6,5 @@ TODO:
   - Add test module (simplified time-stepper):
       + Randomly generate users with requests and add users to floor queue
       + Repeatedly have elevators process requests
+  
+  - Update documentation
