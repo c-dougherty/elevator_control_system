@@ -1,7 +1,7 @@
 TODO:
   - Add passenger limit for elevators
   - Add waiting line (queue) for each floor
-  - Improve elevator scheduling algorithm
+  - Improve elevator scheduling algorithm (think about process scheduling, disk SCAN, etc.)
   - Finish elevator system scheduling
   - Add test module (simplified time-stepper):
       + Randomly generate users with requests and add users to floor queue
